@@ -1,3 +1,7 @@
+# Talent Matrix
+
+Organizations utilize a talent management tool called a talent matrix or skills matrix to evaluate employee performance and potential. I created a 2x2 or 3x3 talent matrix suitable for the matrix type. The colors of the boxes can be changed and the names and descriptions of the boxes can be added.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
